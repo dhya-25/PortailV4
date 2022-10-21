@@ -1,0 +1,27 @@
+.centopp{
+    margin-left: 400px;
+    width: 80%;
+}
+
+
+.modal-dialog{
+      overflow-y: initial !important;
+
+}
+.modal-body{
+  height: 450px;
+
+  overflow-y: auto;
+}
+table {
+    width: 100%;
+  }
+
+.modal-content{
+  width:1000px;
+  margin-left: -250px;
+}
+.btnrecherche{
+  margin-left: 850px;
+margin-top: -70px;
+}
